@@ -1,0 +1,43 @@
+User storied
+1. When user oppen our app, they can choose where they came from
+ex: HCM, HaNoi, DaNang, Hue, BinhDuong,...
+
+2. If they have account before, they will login by action "click" on
+"SIGN IN" button;If they dont have account before, they will sign up by action "click" on
+"CONTINUE" button.
+
+3. After user action, our app will bring user to the next page depend on option user selected
+"SIGN IN" will bring the user to the Sign In page
+"Continue" will bring the user to the Sign Up page
+
+4. In another app, they can login with google, facebook, apple,..
+but in our app, the user can login with gmail and password
+
+5. When user want to see around our app before sign up, we will also set "look around first" button
+in login page
+
+6. When the user "click" on that button, this app will bring the user to the next page, that is home page (first page in app)
+
+7. Home interface include: things can interact or can not interact
++Can not interact:
+	1/ App's name
+	2/ User's avatar
+	3/ Closet item: sub closets's name 
+			create a new closet
+			number of closet in this account	
+			archive button
++Can interact:
+	1/ Transaction history (navbar include: Sold(number)/Purchased(number))
+	2/ Bookmark(navbar include: Preloved/Feed)
+	3/ Settings(
+		Style Stats:Thống kê phong cách thời trang chủ tài khoản theo tháng (include: Utilization Stats/Clothes Stats)
+		Privacy Settings
+		Outfir Suggestion Settings
+		Body Info
+		Notifications
+		Customs Brands
+		
+	4/ Fragment 
+		
+		
+		
